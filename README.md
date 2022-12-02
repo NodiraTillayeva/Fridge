@@ -1,5 +1,5 @@
 # Fridge
-![alt text](https://github.com/NodiraTillayeva/Fridge/blob/main/image_2022-11-18_15-20-39.png?raw=true?align="center")
+![alt text](https://github.com/NodiraTillayeva/Fridge/blob/main/mealBanner.PNG)
 
 
 Google form to identify Voice Of Customer
